@@ -13,3 +13,6 @@ def divide_new(x, y):
 
 def get_Median(x, y):
     return (x+y)/2
+
+def get_Sum_ver1(n):
+    return n(n+1)/2
