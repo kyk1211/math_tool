@@ -28,3 +28,10 @@ def get_Percent(x, y):
 
 def get_Sum_ver1(n):
     return n(n+1)/2
+
+def factorial(n):
+    num = 1
+    while n >= 1:
+        num *= n
+        n = n - 1
+    return num
