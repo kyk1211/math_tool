@@ -25,3 +25,6 @@ def get_Abs(num):
 
 def get_Percent(x, y):
     return (x/y) * 100
+
+def get_Sum_ver1(n):
+    return n(n+1)/2
