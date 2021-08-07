@@ -10,3 +10,6 @@ def multiply(x, y):
 
 def divide_new(x, y):
     return x / y
+
+def get_Median(x, y):
+    return (x+y)/2
